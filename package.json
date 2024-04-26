@@ -1,0 +1,19 @@
+{
+  "name": "expresscalculator",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "global": "^4.4.0"
+  },
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
